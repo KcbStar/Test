@@ -7,5 +7,9 @@ zzzzzzzzzzz
 
 qqqqqqqqqqqqqqq
 
+<<<<<<< HEAD
 wwwwwwwwwwwwwww
 
+=======
+rrrrrrrrrrrrrrrr
+>>>>>>> kkk
