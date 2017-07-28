@@ -7,13 +7,11 @@ zzzzzzzzzzz
 
 qqqqqqqqqqqqqqq
 
-<<<<<<< HEAD
+
 wwwwwwwwwwwwwww
 
-<<<<<<< HEAD
-=======
+
 rrrrrrrrrrrrrrrr
->>>>>>> kkk
-=======
+
 eeeeeeeeeeeeeeee
->>>>>>> xxx
+
